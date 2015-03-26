@@ -1,0 +1,15 @@
+team member: Junchi Liang, Lingduo Kong
+
+Program description:
+
+Since we provide makefile, you can use command make to compile our code.
+
+Since we use SSLContext and KeyManagerFactory in our code, it may show that we use deprecated API, please just ignore it.
+
+When use our program, please type:
+
+java WebServer --serverPort=http_port --sslServerPort=https_port
+
+our program can provide http service and https service simultaneously.
+
+Thank you.
